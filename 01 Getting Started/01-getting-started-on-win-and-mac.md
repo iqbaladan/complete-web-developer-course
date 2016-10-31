@@ -1,1 +1,1 @@
-Pada sesi ini dijelaskan tentang bagaimana memulai pelajaran dengan menyiapkan beberapa perkakas yang akan digunakan pada saat belajar **Web development** seperti **Text Editor** dalam ini menggunakan notepad++ dan bracket, dan menggunakan Chrome sebagai peramban web dan perkakas **debug**.
+Pada sesi ini dijelaskan tentang bagaimana memulai pelajaran dengan menyiapkan beberapa perkakas yang akan digunakan pada saat belajar *Web development* seperti *Text Editor* dalam ini menggunakan notepad++ dan bracket, dan menggunakan Chrome sebagai peramban web dan perkakas *debug*.
