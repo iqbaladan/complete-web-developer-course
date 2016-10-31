@@ -1,3 +1,16 @@
 # complete-webdeveloper-course
 
-Complete Web Developer Course is one stop place you need. Learn, practice and create a real web developer projects. It will teachs us about HTML5, CSS3, Bootstrap, Javascript, jQuery, PHP, MySQL, Wordpress, APIs, Mobile Apps, HTML5 CSS3 Special Features, Python and many mores. 
+Complete Web Developer Course is one stop place you need. Learn, practice and create a real web developer projects. It will teachs us about;
+1. HTML5
+2. CSS3
+3. Bootstrap
+4. Javascript
+5. jQuery
+6. PHP
+7. MySQL
+8. Wordpress
+9. APIs
+10. Mobile Apps
+11. HTML5 CSS3 Special Features
+12. Python
+13. And many mores. 
